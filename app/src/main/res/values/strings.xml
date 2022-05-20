@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DummyDictionary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_button">Cambiar</string>
+    <string name="input_word">Palabra</string>
+    <string name="input_definition">Definicion</string>
+</resources>
